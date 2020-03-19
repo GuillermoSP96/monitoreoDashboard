@@ -8,4 +8,6 @@
 * Author URI: http://www.clearintelligence.mx
 */
 
+echo "hola mundo";
+
 ?>
