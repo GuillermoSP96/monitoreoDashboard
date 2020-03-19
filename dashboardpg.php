@@ -9,5 +9,6 @@
 */
 
 echo "hola mundo";
+echo "otro hola mundo";
 
 ?>
